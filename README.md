@@ -100,7 +100,7 @@ Replace the example values with your own MySQL credentials. Do not commit real p
 
 1. Open `MainMenu.java` in Eclipse.
 2. Right-click the file.
-3. Select **Run As → Java Application**.
+3. Select Run As → Java Application.
 4. Register an account and log in to explore the available features.
 
 ---
@@ -180,23 +180,6 @@ STEP 5: RUN THE APPLICATION
 - Open MainMenu.java.
 - Right-click and select "Run As > Java Application".
 - Register or log in to test the application.
-
-STEP 6: TROUBLESHOOTING
-
-If you see the error:
-
-"Database credentials are missing"
-
-Check the following:
-
-- DB_USER is spelled correctly.
-- DB_PASSWORD is spelled correctly.
-- Both variables are created under User variables.
-- The variable values are correct.
-- Eclipse was restarted after creating the variables.
-
-If the database connection still fails, verify that MySQL
-Server is running and the credentials are correct.   `
 
 ```
 ---
