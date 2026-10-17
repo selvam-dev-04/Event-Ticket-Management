@@ -107,9 +107,9 @@ Replace the example values with your own MySQL credentials. Do not commit real p
 
 🖥️ Application Menu:-
 
-================================
+
  EVENT TICKET MANAGEMENT SYSTEM
-================================
+
 1. Register
 2. Login
 3. Exit
