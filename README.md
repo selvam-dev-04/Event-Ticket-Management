@@ -212,6 +212,7 @@ Through this project, I practised:
 👨‍💻 Developed By
 
 Mari Selvam E
+
 🎯 Aspiring Software Developer | Java | JDBC | MySQL | HTML | CSS | JavaScript
 
 💡 Learning, building, and improving one project at a time!
