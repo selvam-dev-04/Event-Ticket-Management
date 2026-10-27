@@ -40,10 +40,15 @@ The application connects Java with a MySQL database using JDBC to store and mana
 🛠️ TECHNOLOGIES USED:-
 
 ☕ Java              - Application Development
+
 🔌 JDBC              - Database Connectivity
+
 🐬 MySQL             - Database Management
+
 🧰 MySQL Workbench   - Database Design and Queries
+
 💻 Eclipse IDE       - Development Environment
+
 🌿 Git and GitHub    - Version Control
 
 ---
