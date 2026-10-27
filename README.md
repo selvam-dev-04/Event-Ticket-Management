@@ -18,11 +18,12 @@ The application connects Java with a MySQL database using JDBC to store and mana
 
 ✨ Key Features:-
 
- 1.👤 User Registration & Login — Create an account and securely authenticate using password hashes.
 
- 2.🎫 Ticket Booking — Book tickets for available events.
+1.👤 User Registration & Login — Create an account and securely authenticate using password hashes.
 
-3. 📅 Event Management — View event details and available ticket types.
+2.🎫 Ticket Booking — Book tickets for available events. 
+
+3.📅 Event Management — View event details and available ticket types.
 
 4. 💳 Payment Management — Record payment details and manage payment status using a simulated payment process.
 
